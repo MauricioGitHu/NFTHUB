@@ -1,0 +1,11 @@
+{
+    "name": "129_b",
+    "description": "129_b",
+    "image": "https://raw.githubusercontent.com/MauricioGitHu/NFTHUB/main/129_b.png",
+    "attributes": [
+        {
+            "trait_type": "fondo",
+            "value": "noche"
+        }
+    ]
+}

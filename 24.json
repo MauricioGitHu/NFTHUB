@@ -1,0 +1,11 @@
+{
+    "name": "144_a",
+    "description": "144_a",
+    "image": "https://github.com/MauricioGitHu/NFTHUB/blob/main/144_a.png",
+    "attributes": [
+        {
+            "trait_type": "fondo",
+            "value": "noche"
+        }
+    ]
+}
